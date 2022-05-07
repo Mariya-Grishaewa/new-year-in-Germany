@@ -1,0 +1,30 @@
+header {
+    background-color: rgb(255, 187, 182);
+    text-align: center;
+    font-family: Bradley Hand, cursive;
+    color: rgb(90, 1, 19);
+}
+
+
+h2 {
+    text-align: center;
+    color: rgb(90, 1, 19);
+    background-color: rgb(255, 187, 182);
+}
+
+body {
+    font-family: Bradley Hand, cursive;
+    background-color: rgb(253, 223, 223);
+}
+
+h3 {
+    text-align: center;
+    color: rgb(90, 1, 19);
+    background-color: rgb(255, 187, 182);
+}
+
+h4 {
+    text-align: center;
+    color: rgb(90, 1, 19);
+    background-color: rgb(255, 187, 182);
+}
